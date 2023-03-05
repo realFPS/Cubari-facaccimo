@@ -92,6 +92,14 @@
       "groups": {
         "u/_capedbaldy": "/proxy/api/imgur/chapter/MNVP2Rv"
       }
+    },
+    "1.2": {
+      "title": "One Punch (v2)",
+      "volume": "1",
+      "last_updated": "1678029782",
+      "groups": {
+        "VibhavM": "/proxy/api/mangadex/29c42e49-d6f5-4084-9cec-771f5660c90f/1/1/"
+      }
     }
   }
 }
