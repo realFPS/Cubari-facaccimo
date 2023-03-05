@@ -3,14 +3,16 @@
   "description": "In this new action-comedy, everything about a young man named Saitama screams \"AVERAGE,” from his lifeless expression to his bald head, to his unimpressive physique. However, this average-looking fellow doesn't have your average problem... He's a superhero that's looking for tough opponents! The problem is, whenever he finds a promising candidate he beats the snot out of them in one punch. Can Saitama finally find an evil villain strong enough to challenge him? Follow Saitama through his hilarious romps as he searches for new bad guys to challenge!\n\n(Source: Viz Media)\n(Cover: u/oopsiediasies)",
   "artist": "Yuusuke Murata",
   "author": "ONE",
-  "cover": "https://i.redd.it/pd8kf6k2aga71.png",
+  "cover": "https://preview.redd.it/m4zc9p4kmkr71.jpg?width=1069&format=pjpg&auto=webp&v=enabled&s=017c2e392a408e17ef893060c11b7a13878aea31",
   "chapters": {
     "1": {
       "title": "One Punch",
       "volume": "1",
       "last_updated": "1678024970",
       "groups": {
-        "u/Proper_Advantage_831": "https://raw.githubusercontent.com/TheSpiritHero/One-Punch-Man-Full-Color/master/One%20Punch%20Man%20Full%20Color.json"
+        "u/Proper_Advantage_831": [
+          "https://raw.githubusercontent.com/TheSpiritHero/One-Punch-Man-Full-Color/master/One%20Punch%20Man%20Full%20Color.json"
+        ]
       }
     },
     "138": {
@@ -18,7 +20,7 @@
       "volume": "",
       "last_updated": "1678020768",
       "groups": {
-        "": "/proxy/api/imgur/chapter/iqsE4Yp"
+        "u/_capedbaldy": "/proxy/api/imgur/chapter/iqsE4Yp"
       }
     },
     "164": {
@@ -50,7 +52,7 @@
       "volume": "",
       "last_updated": "1678020669",
       "groups": {
-        "": "/proxy/api/imgur/chapter/WFHPjty"
+        "u/TamikST": "/proxy/api/imgur/chapter/WFHPjty"
       }
     },
     "172": {
