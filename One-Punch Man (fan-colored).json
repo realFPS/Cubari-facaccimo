@@ -4,5 +4,16 @@
   "artist": "Yuusuke Murata",
   "author": "ONE",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx74347-O6KMkECzHPOE.jpg",
-  "chapters": {}
+  "chapters": {
+    "178": {
+      "title": "178",
+      "volume": "",
+      "last_updated": "1678013180",
+      "groups": {
+        "": [
+          "https://imgur.com/a/Qd1FKAd"
+        ]
+      }
+    }
+  }
 }
