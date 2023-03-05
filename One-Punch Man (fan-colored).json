@@ -5,6 +5,14 @@
   "author": "ONE",
   "cover": "https://preview.redd.it/m4zc9p4kmkr71.jpg?width=1069&format=pjpg&auto=webp&v=enabled&s=017c2e392a408e17ef893060c11b7a13878aea31",
   "chapters": {
+    "0": {
+      "title": "Garou vs Darkshine",
+      "volume": "",
+      "last_updated": "1678031222",
+      "groups": {
+        "u/pussyslayer_ornstein": "/proxy/api/imgur/chapter/6DHzD1m"
+      }
+    },
     "1": {
       "title": "One Punch",
       "volume": "1",
@@ -13,12 +21,28 @@
         "u/Proper_Advantage_831": "/proxy/api/imgur/chapter/PFA7lAe"
       }
     },
+    "127": {
+      "title": "127",
+      "volume": "",
+      "last_updated": "1678031307",
+      "groups": {
+        "u/Gutskenchi": "/proxy/api/imgur/chapter/ahZEnTZ"
+      }
+    },
     "138": {
       "title": "Into the Abyss",
       "volume": "",
       "last_updated": "1678020768",
       "groups": {
         "u/_capedbaldy": "/proxy/api/imgur/chapter/iqsE4Yp"
+      }
+    },
+    "144": {
+      "title": "144",
+      "volume": "",
+      "last_updated": "1678031178",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/9HBMJWk"
       }
     },
     "164": {
