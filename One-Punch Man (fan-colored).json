@@ -29,20 +29,20 @@
         "VibhavM": "/proxy/api/mangadex/chapter/c2992a61-c7d7-40aa-afea-2d39a591da78"
       }
     },
-    "3": {
-      "title": "Walking Disaster",
-      "volume": "1",
-      "last_updated": "1678109921",
-      "groups": {
-        "VibhavM": ""
-      }
-    },
     "9": {
       "title": "House of Evolution",
       "volume": "2",
       "last_updated": "1678031657",
       "groups": {
         "u/_capedbaldy": "/proxy/api/imgur/chapter/iNLrHik"
+      }
+    },
+    "107": {
+      "title": "A Mighty Foe",
+      "volume": "23",
+      "last_updated": "1678110340",
+      "groups": {
+        "adefan": "/proxy/api/mangadex/chapter/e7c11bfa-5226-46fa-a17c-480a68df4ab0"
       }
     },
     "127": {
@@ -59,6 +59,14 @@
       "last_updated": "1678031593",
       "groups": {
         "u/TamikST": "/proxy/api/imgur/chapter/WwIobmi"
+      }
+    },
+    "137": {
+      "title": "137",
+      "volume": "",
+      "last_updated": "1678110761",
+      "groups": {
+        "VibhavM": "/proxy/api/mangadex/chapter/4715aaa8-703c-492c-964c-4229035fd8a0"
       }
     },
     "138": {
