@@ -5,14 +5,6 @@
   "author": "ONE",
   "cover": "https://i.redd.it/wczc2b2i1yja1.png",
   "chapters": {
-    "0": {
-      "title": "Garou vs Darkshine",
-      "volume": "",
-      "last_updated": "1678031222",
-      "groups": {
-        "u/pussyslayer_ornstein": "/proxy/api/imgur/chapter/6DHzD1m"
-      }
-    },
     "1": {
       "title": "One Punch",
       "volume": "",
@@ -61,12 +53,44 @@
         "adefan": "/proxy/api/mangadex/chapter/3d3edec6-18f6-4ed1-9371-740ff74beff0"
       }
     },
+    "109": {
+      "title": "Fake",
+      "volume": "",
+      "last_updated": "1678111410",
+      "groups": {
+        "adefan": "/proxy/api/mangadex/chapter/2fdee260-9824-439c-b233-40acdb05b9c5"
+      }
+    },
+    "110": {
+      "title": "Atomic Samurai",
+      "volume": "",
+      "last_updated": "1678111461",
+      "groups": {
+        "adefan": "/proxy/api/mangadex/chapter/6777d3c9-b825-40ab-8a1b-19b09b07bda9"
+      }
+    },
+    "111": {
+      "title": "Terrible Multiplying Bastard",
+      "volume": "",
+      "last_updated": "1678111647",
+      "groups": {
+        "hugoide11": "/proxy/api/mangadex/chapter/0ffba528-93a2-4cf6-a0db-08c80794acb9"
+      }
+    },
     "127": {
       "title": "Demons Combine (Not redraw)",
       "volume": "",
       "last_updated": "1678031307",
       "groups": {
         "u/Gutskenchi": "/proxy/api/imgur/chapter/ahZEnTZ"
+      }
+    },
+    "128": {
+      "title": "Invasive Touch",
+      "volume": "",
+      "last_updated": "1678111891",
+      "groups": {
+        "GxTheBatmanYouTube": "/proxy/api/mangadex/chapter/9f1d9e59-010f-47a6-8bcb-2695d18fe618"
       }
     },
     "129": {
@@ -211,6 +235,22 @@
       "last_updated": "1678063597",
       "groups": {
         "VibhavM": "/proxy/api/mangadex/chapter/238185d6-1d57-4a51-95f8-e7498f3e4148"
+      }
+    },
+    "110.1": {
+      "title": "Atomic Samurai (v2)",
+      "volume": "",
+      "last_updated": "1678111531",
+      "groups": {
+        "hugoide11": "/proxy/api/mangadex/chapter/b00f1f8d-625d-416d-9608-8aec1c375e16"
+      }
+    },
+    "126.2": {
+      "title": "Garou vs Darkshine",
+      "volume": "",
+      "last_updated": "1678111794",
+      "groups": {
+        "u/pussyslayer_ornstein": "/proxy/api/imgur/chapter/6DHzD1m"
       }
     }
   }
