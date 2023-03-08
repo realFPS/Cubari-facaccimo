@@ -109,6 +109,14 @@
         "u/TamikST": "/proxy/api/imgur/chapter/WwIobmi"
       }
     },
+    "130": {
+      "title": "Tatsumaki full power",
+      "volume": "",
+      "last_updated": "1678261140",
+      "groups": {
+        "Ningen117": "/proxy/api/mangadex/chapter/1dd7515f-ffa3-4f3e-b1e0-03d5c748f6db"
+      }
+    },
     "133": {
       "title": "Something Huge",
       "volume": "",
@@ -259,6 +267,22 @@
       "last_updated": "1678212163",
       "groups": {
         "u/TamikST": "/proxy/api/imgur/chapter/lf28wtr"
+      }
+    },
+    "129.1": {
+      "title": "Turning the Tide (v2)",
+      "volume": "",
+      "last_updated": "1678260913",
+      "groups": {
+        "GxTheBatmanYouTube": "/proxy/api/mangadex/chapter/54f7dee9-15db-452a-b248-4febe7878e2b"
+      }
+    },
+    "129.2": {
+      "title": "Turning the Tide (v3)",
+      "volume": "",
+      "last_updated": "1678261006",
+      "groups": {
+        "Ningen117": "/proxy/api/mangadex/chapter/5dbf7610-f3c9-4bfd-8209-51b18be90c31"
       }
     }
   }
