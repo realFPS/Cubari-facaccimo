@@ -117,12 +117,20 @@
         "Ningen117": "/proxy/api/mangadex/chapter/1dd7515f-ffa3-4f3e-b1e0-03d5c748f6db"
       }
     },
-    "133": {
+    "132": {
       "title": "Something Huge",
       "volume": "",
-      "last_updated": "1678110935",
+      "last_updated": "1678288074",
       "groups": {
-        "GxTheBatmanYouTube": "/proxy/api/mangadex/chapter/90f9a10d-dd1e-4b1e-9f42-619225abad4c"
+        "GxTheBatmanYouTube": "/proxy/api/mangadex/chapter/0ceb4983-542d-484b-8d7f-54922bf8876c"
+      }
+    },
+    "133": {
+      "title": "Glorious Being! Part 1",
+      "volume": "",
+      "last_updated": "1678288323",
+      "groups": {
+        "GxTheBatmanYoutube": "/proxy/api/mangadex/chapter/90f9a10d-dd1e-4b1e-9f42-619225abad4c"
       }
     },
     "136": {
@@ -270,7 +278,7 @@
       }
     },
     "164.2": {
-      "title": "164 - 166 remake",
+      "title": "[164 - 166 remake] ",
       "volume": "",
       "last_updated": "1678212163",
       "groups": {
@@ -291,6 +299,22 @@
       "last_updated": "1678261006",
       "groups": {
         "Ningen117": "/proxy/api/mangadex/chapter/5dbf7610-f3c9-4bfd-8209-51b18be90c31"
+      }
+    },
+    "132.1": {
+      "title": "Something Huge (v2)",
+      "volume": "",
+      "last_updated": "1678288126",
+      "groups": {
+        "Endermitten": "/proxy/api/mangadex/chapter/e074f040-1385-402d-959a-f7176ee1c0f6"
+      }
+    },
+    "132.2": {
+      "title": "Something Huge (v3)",
+      "volume": "",
+      "last_updated": "1678288208",
+      "groups": {
+        "Ningen117": "/proxy/api/mangadex/chapter/99d4a2fb-aa38-492e-ab21-8f3c88e572fb"
       }
     }
   }
