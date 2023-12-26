@@ -4,5 +4,32 @@
   "artist": "Maam",
   "author": "Sandrovich Yabako",
   "cover": "https://mangadex.org/covers/d080f85f-a6ef-4e0a-9569-c0709b60d8c0/6a712b3c-7b86-4629-b701-37fbf5e7d4c7.jpg",
-  "chapters": {}
+  "chapters": {
+    "15": {
+      "title": "15",
+      "volume": "",
+      "last_updated": "1703611043",
+      "groups": {
+        "": [
+          "https://i.4cdn.org/a/1703517641428227.png",
+          "https://i.4cdn.org/a/1703517705086708.png",
+          "https://i.4cdn.org/a/1703517768922008.png",
+          "https://i.4cdn.org/a/1703517831796885.png",
+          "https://i.4cdn.org/a/1703517894494187.png",
+          "https://i.4cdn.org/a/1703517957398127.png",
+          "https://i.4cdn.org/a/1703518030645360.png",
+          "https://i.4cdn.org/a/1703518105002623.png",
+          "https://i.4cdn.org/a/1703518172003415.png",
+          "https://i.4cdn.org/a/1703518252743699.png",
+          "https://i.4cdn.org/a/1703518316641651.png",
+          "https://i.4cdn.org/a/1703518383375059.png",
+          "https://i.4cdn.org/a/1703518448558967.png",
+          "https://i.4cdn.org/a/1703518512571673.png",
+          "https://i.4cdn.org/a/1703518576179715.png",
+          "https://i.4cdn.org/a/1703518649459000.png",
+          "https://i.4cdn.org/a/1703518722749209.png"
+        ]
+      }
+    }
+  }
 }
