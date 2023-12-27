@@ -6,8 +6,8 @@
   "cover": "https://mangadex.org/covers/d080f85f-a6ef-4e0a-9569-c0709b60d8c0/6a712b3c-7b86-4629-b701-37fbf5e7d4c7.jpg",
   "chapters": {
     "0": {
-      "title": "0",
-      "volume": "",
+      "title": "Chapter 0",
+      "volume": "1",
       "last_updated": "1703691584",
       "groups": {
         "": [
@@ -41,8 +41,8 @@
       }
     },
     "1": {
-      "title": "1",
-      "volume": "",
+      "title": "Chapter 1",
+      "volume": "1",
       "last_updated": "1703691644",
       "groups": {
         "": [
@@ -96,8 +96,8 @@
       }
     },
     "2": {
-      "title": "2",
-      "volume": "",
+      "title": "Chapter 2",
+      "volume": "1",
       "last_updated": "1703691741",
       "groups": {
         "": [
@@ -121,8 +121,8 @@
       }
     },
     "3": {
-      "title": "3",
-      "volume": "",
+      "title": "Chapter 3",
+      "volume": "1",
       "last_updated": "1703691818",
       "groups": {
         "": [
@@ -145,8 +145,8 @@
       }
     },
     "4": {
-      "title": "4",
-      "volume": "",
+      "title": "Chapter 4",
+      "volume": "1",
       "last_updated": "1703691872",
       "groups": {
         "": [
@@ -171,8 +171,8 @@
       }
     },
     "5": {
-      "title": "5",
-      "volume": "",
+      "title": "Chapter 5",
+      "volume": "1",
       "last_updated": "1703691960",
       "groups": {
         "": [
@@ -196,7 +196,7 @@
       }
     },
     "15": {
-      "title": "15",
+      "title": "Chapter 15",
       "volume": "",
       "last_updated": "1703611043",
       "groups": {
