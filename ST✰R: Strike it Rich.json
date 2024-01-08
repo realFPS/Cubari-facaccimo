@@ -7,7 +7,7 @@
   "chapters": {
     "0": {
       "title": "Chapter 0",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1703691584",
       "groups": {
         "": [
@@ -42,7 +42,7 @@
     },
     "1": {
       "title": "Chapter 1",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1703691644",
       "groups": {
         "": [
@@ -97,7 +97,7 @@
     },
     "2": {
       "title": "Chapter 2",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1703691741",
       "groups": {
         "": [
@@ -122,7 +122,7 @@
     },
     "3": {
       "title": "Chapter 3",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1703691818",
       "groups": {
         "": [
@@ -146,7 +146,7 @@
     },
     "4": {
       "title": "Chapter 4",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1703691872",
       "groups": {
         "": [
@@ -172,7 +172,7 @@
     },
     "5": {
       "title": "Chapter 5",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1703691960",
       "groups": {
         "": [
@@ -192,6 +192,232 @@
           "https://i.postimg.cc/yNh6CTgC/ST-R-Strike-it-Rich-c005-p14-web-Comikey-Media-Inc-Gremory.jpg",
           "https://i.postimg.cc/9Q7FJ2cM/ST-R-Strike-it-Rich-c005-p15-web-Comikey-Media-Inc-Gremory.jpg",
           "https://i.postimg.cc/851pprMJ/ST-R-Strike-it-Rich-c005-p16-web-Comikey-Media-Inc-Gremory.jpg"
+        ]
+      }
+    },
+    "6": {
+      "title": "Chapter 6",
+      "volume": "",
+      "last_updated": "1704706763",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/4ybLPDqF/ST-R-Strike-it-Rich-c006-p01-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/dVSW5mNv/ST-R-Strike-it-Rich-c006-p02-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/2ywGh4Ls/ST-R-Strike-it-Rich-c006-p03-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/G2vqh0Lh/ST-R-Strike-it-Rich-c006-p04-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/fbt8pt1d/ST-R-Strike-it-Rich-c006-p05-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/8kBt2VXZ/ST-R-Strike-it-Rich-c006-p06-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/FKMT4FQB/ST-R-Strike-it-Rich-c006-p07-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/90V1Dx0P/ST-R-Strike-it-Rich-c006-p08-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/pXWqx1gR/ST-R-Strike-it-Rich-c006-p09-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Nfdb0kcT/ST-R-Strike-it-Rich-c006-p10-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/W1t8qqNy/ST-R-Strike-it-Rich-c006-p11-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/s2hJwFZ9/ST-R-Strike-it-Rich-c006-p12-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/x17Rvjq1/ST-R-Strike-it-Rich-c006-p13-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/tTdNGhks/ST-R-Strike-it-Rich-c006-p14-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/nrHYFCS0/ST-R-Strike-it-Rich-c006-p15-web-Comikey-Media-Inc-Gremory.jpg"
+        ]
+      }
+    },
+    "7": {
+      "title": "Chapter 7",
+      "volume": "",
+      "last_updated": "1704706991",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/jSFXHHZf/ST-R-Strike-it-Rich-c007-p01-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/pL4fh2LY/ST-R-Strike-it-Rich-c007-p02-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/J47cS6FJ/ST-R-Strike-it-Rich-c007-p03-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/9QrPQ4CQ/ST-R-Strike-it-Rich-c007-p04-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Y9czVpcq/ST-R-Strike-it-Rich-c007-p05-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/qqwczyNz/ST-R-Strike-it-Rich-c007-p06-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/4N8bGvC0/ST-R-Strike-it-Rich-c007-p07-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Qtrcm05F/ST-R-Strike-it-Rich-c007-p08-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/wxQQf8wg/ST-R-Strike-it-Rich-c007-p09-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/J4dJv1ZV/ST-R-Strike-it-Rich-c007-p10-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/DZg4gFnN/ST-R-Strike-it-Rich-c007-p11-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Hkc5Cf9J/ST-R-Strike-it-Rich-c007-p12-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/qv3tF2py/ST-R-Strike-it-Rich-c007-p13-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/CMcfnFvB/ST-R-Strike-it-Rich-c007-p14-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Y0D4534f/ST-R-Strike-it-Rich-c007-p15-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/0NGzkxMN/ST-R-Strike-it-Rich-c007-p16-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/7LrCrbLc/ST-R-Strike-it-Rich-c007-p17-web-Comikey-Media-Inc-Gremory.jpg"
+        ]
+      }
+    },
+    "8": {
+      "title": "Chapter 8",
+      "volume": "",
+      "last_updated": "1704707023",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/FzrWW9ck/ST-R-Strike-it-Rich-c008-p01-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/7YbXftN4/ST-R-Strike-it-Rich-c008-p02-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/BQypD5hK/ST-R-Strike-it-Rich-c008-p03-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/BnKgC8yw/ST-R-Strike-it-Rich-c008-p04-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/HL1tvY1W/ST-R-Strike-it-Rich-c008-p05-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/zB50vJx2/ST-R-Strike-it-Rich-c008-p06-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/x8pR6LnB/ST-R-Strike-it-Rich-c008-p07-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Bbnp5m9x/ST-R-Strike-it-Rich-c008-p08-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/jqMZqYPv/ST-R-Strike-it-Rich-c008-p09-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/brr0Sdkg/ST-R-Strike-it-Rich-c008-p10-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/HxsXFjZm/ST-R-Strike-it-Rich-c008-p11-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/T1sVVGc6/ST-R-Strike-it-Rich-c008-p12-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/zGKCgsbs/ST-R-Strike-it-Rich-c008-p13-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/QMDpkfcH/ST-R-Strike-it-Rich-c008-p14-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/vmv5P5vX/ST-R-Strike-it-Rich-c008-p15-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/jdG6Cx56/ST-R-Strike-it-Rich-c008-p16-web-Comikey-Media-Inc-Gremory.jpg"
+        ]
+      }
+    },
+    "9": {
+      "title": "Chapter 9",
+      "volume": "",
+      "last_updated": "1704707084",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/CM9JnHrf/ST-R-Strike-it-Rich-c009-p01-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/NFX6kSC2/ST-R-Strike-it-Rich-c009-p02-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/k5jvJxtG/ST-R-Strike-it-Rich-c009-p03-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/RFNQNNcR/ST-R-Strike-it-Rich-c009-p04-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/gk9q2crV/ST-R-Strike-it-Rich-c009-p05-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/y63yK366/ST-R-Strike-it-Rich-c009-p06-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/1zRK1WXb/ST-R-Strike-it-Rich-c009-p07-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/mDJ3MBjG/ST-R-Strike-it-Rich-c009-p08-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/rFSG06tv/ST-R-Strike-it-Rich-c009-p09-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/yx0RZ9WF/ST-R-Strike-it-Rich-c009-p10-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/W4f0LTQJ/ST-R-Strike-it-Rich-c009-p11-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/LXcf5v49/ST-R-Strike-it-Rich-c009-p12-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/hPqTqC3M/ST-R-Strike-it-Rich-c009-p13-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/RVQfCckm/ST-R-Strike-it-Rich-c009-p14-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/rwfrxqyY/ST-R-Strike-it-Rich-c009-p15-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/rwV4DDTr/ST-R-Strike-it-Rich-c009-p16-web-Comikey-Media-Inc-Gremory.jpg"
+        ]
+      }
+    },
+    "10": {
+      "title": "Chapter 10",
+      "volume": "",
+      "last_updated": "1704707116",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/nrdJTSsZ/ST-R-Strike-it-Rich-c010-p01-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/FHk4gZh5/ST-R-Strike-it-Rich-c010-p02-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/vmWwCZ10/ST-R-Strike-it-Rich-c010-p03-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/1ts1S1ws/ST-R-Strike-it-Rich-c010-p04-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/nrL8sK3W/ST-R-Strike-it-Rich-c010-p05-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/VvZxXSTk/ST-R-Strike-it-Rich-c010-p06-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/gkQ9JZ8M/ST-R-Strike-it-Rich-c010-p07-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/HxzDsv95/ST-R-Strike-it-Rich-c010-p08-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/LsdMy1sq/ST-R-Strike-it-Rich-c010-p09-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/QMgv0YPP/ST-R-Strike-it-Rich-c010-p10-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/vBQkjLwm/ST-R-Strike-it-Rich-c010-p11-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/ZnQQCGB9/ST-R-Strike-it-Rich-c010-p12-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/fLBphtMf/ST-R-Strike-it-Rich-c010-p13-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/gkw5f2Q3/ST-R-Strike-it-Rich-c010-p14-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/KvdVFyhw/ST-R-Strike-it-Rich-c010-p15-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/bwk5wFzJ/ST-R-Strike-it-Rich-c010-p16-web-Comikey-Media-Inc-Gremory.jpg"
+        ]
+      }
+    },
+    "11": {
+      "title": "Chapter 11",
+      "volume": "",
+      "last_updated": "1704707152",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/yYqtCHH5/ST-R-Strike-it-Rich-c011-p01-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Fsmpxsm9/ST-R-Strike-it-Rich-c011-p02-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/mZ7VM1vX/ST-R-Strike-it-Rich-c011-p03-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/XqK80tKS/ST-R-Strike-it-Rich-c011-p04-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/nrfkgnDG/ST-R-Strike-it-Rich-c011-p05-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/25JTdQjJ/ST-R-Strike-it-Rich-c011-p06-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/0yVVjgT9/ST-R-Strike-it-Rich-c011-p07-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Y9D7zyL7/ST-R-Strike-it-Rich-c011-p08-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/KY4JgqbB/ST-R-Strike-it-Rich-c011-p09-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/BnnCdYXk/ST-R-Strike-it-Rich-c011-p10-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/rFQ1C1QJ/ST-R-Strike-it-Rich-c011-p11-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/bY0Hdcn4/ST-R-Strike-it-Rich-c011-p12-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/VLY9CGBv/ST-R-Strike-it-Rich-c011-p13-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Bnz2RqWP/ST-R-Strike-it-Rich-c011-p14-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Dzb1TtFj/ST-R-Strike-it-Rich-c011-p15-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/QdCp6Fzr/ST-R-Strike-it-Rich-c011-p16-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/0QRD2cy8/ST-R-Strike-it-Rich-c011-p17-web-Comikey-Media-Inc-Gremory.jpg"
+        ]
+      }
+    },
+    "12": {
+      "title": "Chapter 12",
+      "volume": "",
+      "last_updated": "1704707170",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/rpLwDbxY/ST-R-Strike-it-Rich-c012-p01-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/hvwSc3Ks/ST-R-Strike-it-Rich-c012-p02-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/8zL1gH9d/ST-R-Strike-it-Rich-c012-p03-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/SQtQ6jc9/ST-R-Strike-it-Rich-c012-p04-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/rpJMKp8K/ST-R-Strike-it-Rich-c012-p05-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/fTGwPF2T/ST-R-Strike-it-Rich-c012-p06-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/ZqZJbNzG/ST-R-Strike-it-Rich-c012-p07-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/5021vM0p/ST-R-Strike-it-Rich-c012-p08-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/rF0VQc9P/ST-R-Strike-it-Rich-c012-p09-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/52WVgzyX/ST-R-Strike-it-Rich-c012-p10-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/WzQPQF7f/ST-R-Strike-it-Rich-c012-p11-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/vmQdFdWM/ST-R-Strike-it-Rich-c012-p12-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/MHfCbZ80/ST-R-Strike-it-Rich-c012-p13-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/1tdxqnb5/ST-R-Strike-it-Rich-c012-p14-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/9z3vx3W6/ST-R-Strike-it-Rich-c012-p15-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/tTJQJtSM/ST-R-Strike-it-Rich-c012-p16-web-Comikey-Media-Inc-Gremory.jpg"
+        ]
+      }
+    },
+    "13": {
+      "title": "Chapter 13",
+      "volume": "",
+      "last_updated": "1704707194",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/3N3LWKxJ/ST-R-Strike-it-Rich-c013-p01-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Z5vLb9xx/ST-R-Strike-it-Rich-c013-p02-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/cJYTmKKL/ST-R-Strike-it-Rich-c013-p03-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/MHsYTVLd/ST-R-Strike-it-Rich-c013-p04-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/8zxtMdzY/ST-R-Strike-it-Rich-c013-p05-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Yq93PD4V/ST-R-Strike-it-Rich-c013-p06-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/DyMg3QLz/ST-R-Strike-it-Rich-c013-p07-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/L54T2NxJ/ST-R-Strike-it-Rich-c013-p08-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/jqvcZYjP/ST-R-Strike-it-Rich-c013-p09-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/cJQM3VjK/ST-R-Strike-it-Rich-c013-p10-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/VLdqgSpP/ST-R-Strike-it-Rich-c013-p11-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/WzfMjjDy/ST-R-Strike-it-Rich-c013-p12-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/J0hb9thJ/ST-R-Strike-it-Rich-c013-p13-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/cH07BFyF/ST-R-Strike-it-Rich-c013-p14-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/02FpBk1M/ST-R-Strike-it-Rich-c013-p15-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/QN6gcg6q/ST-R-Strike-it-Rich-c013-p16-web-Comikey-Media-Inc-Gremory.jpg"
+        ]
+      }
+    },
+    "14": {
+      "title": "Chapter 14",
+      "volume": "",
+      "last_updated": "1704707213",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/y69g8FMd/ST-R-Strike-it-Rich-c014-p01-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/4x8nSw98/ST-R-Strike-it-Rich-c014-p02-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/fyhb9rGb/ST-R-Strike-it-Rich-c014-p03-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/mD9Dhs6q/ST-R-Strike-it-Rich-c014-p04-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/k5BD38N7/ST-R-Strike-it-Rich-c014-p05-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/cCMLMcWB/ST-R-Strike-it-Rich-c014-p06-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Dfq0T7G4/ST-R-Strike-it-Rich-c014-p07-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/CLS1M9CP/ST-R-Strike-it-Rich-c014-p08-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/tgwJXTDW/ST-R-Strike-it-Rich-c014-p09-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/ht3Prjk6/ST-R-Strike-it-Rich-c014-p10-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/Nj0jmTzR/ST-R-Strike-it-Rich-c014-p11-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/0NM5HvxQ/ST-R-Strike-it-Rich-c014-p12-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/cCZsH83g/ST-R-Strike-it-Rich-c014-p13-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/26nkrx1N/ST-R-Strike-it-Rich-c014-p14-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/wMV9sT5W/ST-R-Strike-it-Rich-c014-p15-web-Comikey-Media-Inc-Gremory.jpg",
+          "https://i.postimg.cc/dQmsf4M8/ST-R-Strike-it-Rich-c014-p16-web-Comikey-Media-Inc-Gremory.jpg"
         ]
       }
     },
