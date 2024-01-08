@@ -572,16 +572,6 @@
         ]
       }
     },
-    "10.5": {
-      "title": "[RAW] Chapter 10 Extra",
-      "volume": "",
-      "last_updated": "1704708411",
-      "groups": {
-        "": [
-          "https://files.catbox.moe/mqpoml.jpg"
-        ]
-      }
-    },
     "12.5": {
       "title": "[RAW] Chapter 12 Extra",
       "volume": "",
@@ -629,6 +619,47 @@
       "groups": {
         "": [
           "https://files.catbox.moe/i1vf0w.jpg"
+        ]
+      }
+    },
+    "11.5": {
+      "title": "[RAW] Chapter 11 Extra",
+      "volume": "",
+      "last_updated": "1704708974",
+      "groups": {
+        "": [
+          "https://files.catbox.moe/85gqzw.jpg"
+        ]
+      }
+    },
+    "10.2": {
+      "title": "Volume 1 Extras",
+      "volume": "",
+      "last_updated": "1704709145",
+      "groups": {
+        "": [
+          "https://i.postimg.cc/ZqP6b12H/1.jpg",
+          "https://i.postimg.cc/26zhV0fD/2.jpg",
+          "https://i.postimg.cc/SNX82XHJ/3.jpg",
+          "https://i.postimg.cc/XJQFF9Vy/4.jpg",
+          "https://i.postimg.cc/W1gk8BNV/5.jpg",
+          "https://i.postimg.cc/PrBDmXkK/6.jpg",
+          "https://i.postimg.cc/D00GcmZp/7.jpg",
+          "https://i.postimg.cc/442VxvLD/8.jpg",
+          "https://i.postimg.cc/5yrCK1Q4/9.jpg",
+          "https://i.postimg.cc/6pFTkYQ0/4t.png",
+          "https://i.postimg.cc/R0cCjmyS/u89y4b8uxdub1.png",
+          ""
+        ]
+      }
+    },
+    "10.1": {
+      "title": "[RAW] Chapter 10 Extra",
+      "volume": "",
+      "last_updated": "1704709281",
+      "groups": {
+        "": [
+          "https://files.catbox.moe/mqpoml.jpg"
         ]
       }
     }
